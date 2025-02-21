@@ -61,7 +61,7 @@ document.querySelector(".btn-outline-secondary").onclick = function () {
   document.getElementById("chieuRong").value = "";
   document.getElementById(
     "ketQua4"
-  ).innerHTML = `Diện tích HCN là: ${dienTichHCN} và Chu vi HCN là: ${chuViHCN}`;
+  ).innerHTML = `Diện tích HCN là: ${dienTichHCN}  Chu vi HCN là: ${chuViHCN}`;
 };
 
 // Bài 5
